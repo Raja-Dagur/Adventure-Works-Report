@@ -29,7 +29,7 @@ Highlight important KPIs and also add custom tooltips for better visualisation.
 ![Screenshot 2023-12-13 190008](https://github.com/Raja-Dagur/Adventure-Works-Report/assets/116354238/a64dfee5-6cdd-4992-a055-69b2e00a2130)
 
 ### Product Details
-![Screenshot 2023-12-13 190032](https://github.com/Raja-Dagur/Adventure-Works-Report/assets/116354238/6bf93ced-7253-4950-b166-059e76faadda)
+![Screenshot 2023-12-13 200202](https://github.com/Raja-Dagur/Adventure-Works-Report/assets/116354238/1aef281a-aadb-47a6-9ca0-a058625cb00a)
 
 ### Customer Details
 ![Screenshot 2023-12-13 190057](https://github.com/Raja-Dagur/Adventure-Works-Report/assets/116354238/6f3e9105-7b29-408b-bf1f-2a02468e7233)
