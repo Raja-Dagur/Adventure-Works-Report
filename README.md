@@ -23,7 +23,7 @@ Highlight important KPIs and also add custom tooltips for better visualisation.
  # Report Snapshots (Power BI DESKTOP)
 
  ### Executive Dashboard
-![Screenshot 2023-12-13 185908](https://github.com/Raja-Dagur/Adventure-Works-Report/assets/116354238/5d668392-f022-47ee-b5b3-337edd8eb4b2)
+![Screenshot 2023-12-13 200134](https://github.com/Raja-Dagur/Adventure-Works-Report/assets/116354238/062a318b-e280-427a-9673-b6881849ed01)
 
 ### Map
 ![Screenshot 2023-12-13 190008](https://github.com/Raja-Dagur/Adventure-Works-Report/assets/116354238/a64dfee5-6cdd-4992-a055-69b2e00a2130)
