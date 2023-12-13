@@ -16,7 +16,7 @@ Highlight important KPIs and also add custom tooltips for better visualisation.
 - Step 4 : Create and manage relationships in Model view.
 - Step 5 : Perform normalization.
 - Step 6 : Create hierarchies.
-- Step 7 : Add calculated columns and measures.
+- Step 7 : Add calculated columns and measures using DAX.
 - Step 8 : Use different visuals, slicers, conditional formatting, charts etc. to build visually appealing dashboard.
 - Step 9 : Add buttons to navigate through different report pages and important filtered views.
  
